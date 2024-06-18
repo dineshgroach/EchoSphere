@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">AI Podcast Platform</h3>
+  <h3 align="center">EchoSphere Platform</h3>
 
 </div>
 
